@@ -5,6 +5,6 @@ A test using parcelables in DataDroid. There's a bug in the library and this pro
 
 To test the project:
 
-1) import to eclipse
-2) Add DataDroid library
-3) Run, and watch LogCat
+* import to eclipse
+* Add DataDroid library
+* Run, and watch LogCat
